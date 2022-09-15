@@ -1,22 +1,32 @@
 {
-	"movies": [
+	"Music": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Song": "CUFF IT",
+			"Album": "Renaissance",
+			"Artist": "Beyonce",
+			"Genre": "Dance Pop",
+			"Year": "2022"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Song": "How to Disappear",
+			"Album": "NFR",
+			"Artist": "Lana Del Rey",
+			"Genre": "Alternative",
+			"Year": "2019"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Song": "Hardest to Love",
+			"Album": "After Hours",
+			"Artist": "The Weeknd",
+			"Genre": "Soul",
+			"Year": "2020"
+		},
+		{
+			"Song": "Bad Mode",
+			"Album": "Bad Mode",
+			"Artist": "Hikaru Utada",
+			"Genre": "J-Pop",
+			"Year": "2022"
 		}
 	]
 }
